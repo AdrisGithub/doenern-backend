@@ -3,4 +3,4 @@
 
 ## Architecture Diagram
 
-![](images/Untitled-2023-12-27-2231(1).svg)
+![](images/Untitled-2023-12-27-2231(2).svg)
