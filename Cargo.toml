@@ -2,6 +2,7 @@
 name = "doenern-backend"
 version = "0.1.0"
 edition = "2021"
+exclude = ["images/*"]
 
 [[bin]]
 name="doba"
